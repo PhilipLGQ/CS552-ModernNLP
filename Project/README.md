@@ -1,4 +1,6 @@
 # CS552 Final Project: Educational Chatbot Model (Text Generation)
+See our final project report [here](./final_report_ikun.pdf)!
+
 ## Project Introduction
 This repository stores our course project of building up an educational chatbot (text generation) model. Our chatbot model is based the [LLaMA-7B](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) fine-tuned with [Proximal Policy Optimization (PPO)](https://arxiv.org/pdf/1707.06347.pdf) strategy in [RLHF](https://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback) with a fine-tuned [DeBERTaV3-base](https://huggingface.co/microsoft/deberta-v3-base) model as the reward model. 
 
