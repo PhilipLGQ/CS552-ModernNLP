@@ -1,0 +1,21 @@
+{
+  "additional_special_tokens": [
+    "<role_user>",
+    "<role_assistant>",
+    "<role_system>",
+    "[CLS]",
+    "[CLS]",
+    "[SEP]",
+    "[MASK]",
+    "[PAD]",
+    "[SEP]",
+    "[UNK]"
+  ],
+  "bos_token": "[CLS]",
+  "cls_token": "[CLS]",
+  "eos_token": "[SEP]",
+  "mask_token": "[MASK]",
+  "pad_token": "[SEP]",
+  "sep_token": "[SEP]",
+  "unk_token": "[UNK]"
+}
